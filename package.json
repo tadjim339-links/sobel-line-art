@@ -1,0 +1,1 @@
+{"name":"sobel-line-art","version":"1.0.0","description":"Turn a grayscale pixel array into black line art with box blur, Sobel edges and dilation","main":"index.js","scripts":{"test":"node test.js"},"license":"MIT","homepage":"https://tattoostencilmakeronline.com/"}
